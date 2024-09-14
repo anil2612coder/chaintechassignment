@@ -15,10 +15,10 @@ Base URL: http://localhost:5000/api
 
 Method Endpoint Description
 
-POST (/tasks) Create a new task
-GET (/tasks) Retrieve all tasks
-GET (/tasks/:id) Retrieve one task by ID
-PUT (/tasks/:id) Update a task by ID
+POST (/tasks) Create a new task,
+GET (/tasks) Retrieve all tasks,
+GET (/tasks/:id) Retrieve one task by ID,
+PUT (/tasks/:id) Update a task by ID,
 DELETE (/tasks/:id) Delete a task by ID
 
 now try this in postman or or enjoy
