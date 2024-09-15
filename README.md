@@ -15,7 +15,7 @@ Base URL: http://localhost:5000/api
 
 Method Endpoint Description
 
-POST (/tasks) Create a new task,
+POST (/tasks) Create a new task (give title, discription in body),
 GET (/tasks) Retrieve all tasks,
 GET (/tasks/:id) Retrieve one task by ID,
 PUT (/tasks/:id) Update a task by ID,
